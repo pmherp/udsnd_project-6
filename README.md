@@ -26,7 +26,7 @@ For this project, there were two csv-files provided by Udacity:
 - articles_community.csv: Contents of articles.
 
 ## Overview
-I. Exploratory Data Analysis
+### I. Exploratory Data Analysis
 Before making recommendations of any kind, you will need to explore the data you are working with for the project. Dive in to see what you can find. There are some basic, required questions to be answered about the data you are working with throughout the rest of the notebook. Use this space to explore, before you dive into the details of your recommendation system in the later sections.
 
 ### II. Rank Based Recommendations
